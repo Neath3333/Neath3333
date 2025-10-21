@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Aesthetic Header with Sparkles -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,17,20,24&text=✨%20Neath's%20Magical%20Space%20✨&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20corner!%20💖&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,17,20,24&text=Neath%20|%20Creative%20Developer&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20beautiful%20digital%20experiences&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
 <!-- Cute Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=🌸+Coding+with+passion+%26+creativity+🌸;✨+Building+dreams+one+line+at+a+time+✨;🦋+Let's+create+something+beautiful!+🦋;💕+Always+learning+%26+growing+💕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Designer;Building+with+React+%26+TypeScript;Creating+beautiful+user+experiences;Always+learning+and+growing" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -211,7 +211,7 @@ const neath = {
 
 <!-- Cute Message -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+💖;Let's+create+something+amazing+together!+✨;Happy+coding!+🌸" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!;Happy+coding!" alt="Footer Typing SVG" />
 </div>
 
 <br/>
@@ -219,11 +219,16 @@ const neath = {
 <!-- Aesthetic Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,17,20,24&section=footer" width="100%"/>
 
-<!-- Cute Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💌 Made with love and code 💕
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 
 </div>
