@@ -175,17 +175,17 @@ const neath = {
 <a href="https://github.com/Neath3333">
   <img src="https://img.shields.io/badge/💖_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB6C1" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:soda.neat@gmail.com">
   <img src="https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/sodaneath-somethea-52312725b/">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B0E0E6" />
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=B0E0E6" />
+<a href="https://www.behance.net/sodaneasomethe">
+  <img src="https://img.shields.io/badge/🎨_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=B0C4DE" />
 </a>
-<a href="https://discord.com/users/yourid">
-  <img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=E6E6FA" />
+<a href="https://dribbble.com/Neath123">
+  <img src="https://img.shields.io/badge/🎯_Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=FFB6C1" />
 </a>
 </p>
 
