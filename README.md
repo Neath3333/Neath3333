@@ -29,18 +29,22 @@
 
 <img align="right" alt="Coding Girl GIF" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-```typescript
-const neath = {
-    pronouns: "she/her" as const,
-    location: "🌍 Creating magic worldwide",
-    currentMood: "✨ Excited & inspired!",
-    working_on: "🛍️ Beautiful E-commerce Platform",
-    learning: ["React 💙", "TypeScript 💜", "Next.js 🖤"],
-    passions: ["💻 Coding", "🎨 Design", "🎵 Music", "📚 Reading"],
-    lifePhilosophy: "Dream big, code bigger! 🌟",
-    funFact: "I believe every bug is just a hidden feature! 🐛✨"
-};
-```
+### 👋 Hi! I'm Sodaneath (Neath)
+
+I'm a **frontend developer and designer** passionate about creating beautiful, user-friendly web experiences.
+
+📍 **Currently:**
+- 🛍️ Building an **E-commerce Platform** with React & TypeScript
+- 🎨 Learning UI/UX design and modern web development
+- 💻 Growing my skills in Next.js and frontend architecture
+
+💖 **I Love:**
+- ✨ Designing beautiful and intuitive interfaces
+- 🚀 Turning creative ideas into reality through code
+- 🎵 Coding with good music
+- 🌱 Learning something new every day
+
+*"Dream big, code bigger!"* 🌟
 
 <br clear="right"/>
 
