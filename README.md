@@ -1,151 +1,229 @@
-
-
-<!--
 <div align="center">
 
-<!-- Custom Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Hi%20there!%20👋%20I'm%20Neath&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=337DEF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Building+Cool+Projects+%F0%9F%92%BB;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1;Let's+Code+Together!+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Aesthetic Header with Sparkles -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,17,20,24&text=✨%20Neath's%20Magical%20Space%20✨&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20corner!%20💖&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
-<!-- Colorful badges -->
-<img src="https://img.shields.io/badge/Developer-337def?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Student-fcc729?style=for-the-badge&logo=bookstack&logoColor=black" />
-<img src="https://img.shields.io/badge/Open%20Source-337def?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<!-- Cute Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=🌸+Coding+with+passion+%26+creativity+🌸;✨+Building+dreams+one+line+at+a+time+✨;🦋+Let's+create+something+beautiful!+🦋;💕+Always+learning+%26+growing+💕" alt="Typing SVG" />
 
 <br/><br/>
 
-## 🎨 About Me
+<!-- Aesthetic Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```javascript
+<br/>
+
+<!-- Cute Profile Badges -->
+<img src="https://img.shields.io/badge/✨_Dreamer-FF69B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💖_Creator-FFC0CB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🌸_Developer-FFB6C1?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🦋_Learner-DDA0DD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/✨_Believer-E6E6FA?style=for-the-badge&logoColor=black" />
+
+<br/><br/>
+
+<!-- About Me Section with Cute Design -->
+## 💝 About Me
+
+<img align="right" alt="Coding Girl GIF" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+```typescript
 const neath = {
-    location: "🌍 Coding from anywhere",
-    currentProject: "🛒 E-commerce Clone with Next.js",
-    learning: ["React", "TypeScript", "Next.js", "Web Development"],
-    hobbies: ["💻 Coding", "🎮 Gaming", "🎵 Music", "📚 Learning"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    pronouns: "she/her" as const,
+    location: "🌍 Creating magic worldwide",
+    currentMood: "✨ Excited & inspired!",
+    working_on: "🛍️ Beautiful E-commerce Platform",
+    learning: ["React 💙", "TypeScript 💜", "Next.js 🖤"],
+    passions: ["💻 Coding", "🎨 Design", "🎵 Music", "📚 Reading"],
+    lifePhilosophy: "Dream big, code bigger! 🌟",
+    funFact: "I believe every bug is just a hidden feature! 🐛✨"
 };
 ```
 
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/>
 
-## 🛠️ Tech Stack
+## 🌈 My Tech Wonderland
 
-### 💻 Languages
+<!-- Aesthetic Tech Stack with Icons -->
+### 💫 Languages I Love
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFE5B4" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=E6E6FA" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=DDA0DD" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### ✨ Frameworks & Magic Tools
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=B0E0E6" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=C8A2C8" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=B0E0E6" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=90EE90" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🎨 Creative Tools
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=B0C4DE" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFB6C1" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=E6E6FA" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFB6C1" />
 </p>
 
 <br/>
 
-## 📊 GitHub Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+## 📊 My GitHub Journey
+
+<!-- Cute Stats Cards -->
 <div align="center">
 
-<!-- GitHub Stats Card with custom colors -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neath3333&show_icons=true&theme=default&title_color=337def&icon_color=fcc729&text_color=333&bg_color=ffffff&border_color=337def&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neath3333&show_icons=true&theme=graywhite&title_color=FF69B4&icon_color=FFB6C1&text_color=8B7D8B&bg_color=ffffff&border_color=FFB6C1&border_radius=15&hide_border=false" />
 
-<!-- Most Used Languages with custom colors -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neath3333&layout=compact&theme=default&title_color=337def&text_color=333&bg_color=ffffff&border_color=337def&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neath3333&layout=compact&theme=graywhite&title_color=FF69B4&text_color=8B7D8B&bg_color=ffffff&border_color=FFB6C1&border_radius=15&hide_border=false" />
 
 </div>
 
 <br/>
 
-<!-- GitHub Streak Stats -->
+<!-- Cute Streak Stats -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neath3333&theme=default&ring=337def&fire=fcc729&currStreakLabel=337def&border=337def&background=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neath3333&theme=default&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&border=FFB6C1&background=FFFFF0&sideLabels=DDA0DD&dates=8B7D8B" width="70%"/>
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+<!-- Activity Graph with Aesthetic Colors -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neath3333&custom_title=✨%20Contribution%20Journey%20✨&bg_color=FFFFF0&color=FF69B4&line=FFB6C1&point=DDA0DD&area=true&area_color=FFE4E1&hide_border=false&border_color=FFB6C1&radius=15" width="100%"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 Achievements & Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neath3333&theme=chalk&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,MultiLanguage" width="100%"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🌸 Featured Creations
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Neath3333&theme=flat&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
+
+<a href="https://github.com/Neath3333/Ecommerce-Clone-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neath3333&repo=Ecommerce-Clone-Project&theme=graywhite&title_color=FF69B4&icon_color=FFB6C1&text_color=8B7D8B&bg_color=ffffff&border_color=FFB6C1&border_radius=15" />
+</a>
+
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neath3333&theme=github-compact&bg_color=ffffff&color=337def&line=fcc729&point=337def&area=true&hide_border=false&border_color=337def" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## 🌟 Featured Projects
+## 💖 My 2025 Dreams & Goals
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
-[![E-commerce Clone](https://github-readme-stats.vercel.app/api/pin/?username=Neath3333&repo=Ecommerce-Clone-Project&theme=default&title_color=337def&icon_color=fcc729&text_color=333&bg_color=ffffff&border_color=337def)](https://github.com/Neath3333/Ecommerce-Clone-Project)
+**💫 Coding Goals**
+- ✨ Complete my E-commerce masterpiece
+- 🎨 Master beautiful UI/UX design
+- 💜 Learn advanced TypeScript magic
+- 🌟 Build 10+ creative projects
+- 🦋 Contribute to open source beauty
 
-</div>
+</td>
+<td>
+
+**🌸 Personal Growth**
+- 📚 Read 20+ tech & creative books
+- 🎯 Share knowledge through blogs
+- 🤝 Connect with amazing developers
+- 💪 Code every single day
+- 🌈 Inspire others through code
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🎯 Current Goals for 2025
-
-- 🚀 Complete E-commerce Clone Project
-- 📚 Master TypeScript & Next.js
-- 🌱 Contribute to Open Source
-- 💡 Build 10+ projects
-- 🤝 Collaborate with other developers
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## 📫 Connect With Me
+## 🦋 Let's Connect!
 
 <p align="center">
-<a href="https://github.com/Neath3333"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/Neath3333">
+  <img src="https://img.shields.io/badge/💖_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB6C1" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B0E0E6" />
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=B0E0E6" />
+</a>
+<a href="https://discord.com/users/yourid">
+  <img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=E6E6FA" />
+</a>
 </p>
 
 <br/>
 
-## 💬 Random Dev Quote
-
+<!-- Cute Quote Card -->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true&borderColor=337def" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true&borderColor=FFB6C1&quote=Dream%20it.%20Code%20it.%20Make%20it%20beautiful." width="60%"/>
 </div>
 
 <br/>
 
-## 👀 Profile Views
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+<!-- Profile Views Counter -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Neath3333&color=337def&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Neath3333&color=FF69B4&style=for-the-badge&label=✨+Profile+Visitors" />
 </div>
 
 <br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" />
-
+<!-- Cute Message -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+💖;Let's+create+something+amazing+together!+✨;Happy+coding!+🌸" alt="Footer Typing SVG" />
 </div>
 
--->
+<br/>
+
+<!-- Aesthetic Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,17,20,24&section=footer" width="100%"/>
+
+<!-- Cute Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Neath3333/Neath3333/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
