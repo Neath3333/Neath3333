@@ -27,6 +27,8 @@
 <!-- About Me Section -->
 ## 💝 About Me
 
+<img align="right" alt="Coding Girl GIF" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 👋 Hi! I'm **Sodaneath (Neath)** - a frontend developer and designer who loves creating beautiful web experiences.
 
 🛍️ Currently building an **E-commerce Platform** with React & TypeScript
@@ -34,6 +36,8 @@
 💻 Growing my skills in Next.js and frontend architecture
 
 *"Dream big, code bigger!"* 🌟
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
