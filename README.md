@@ -131,7 +131,7 @@
 
 <br/>
 
-## 💖 My 2025 Dreams & Goals
+## 💖 My 2026 Dreams & Goals
 
 <table align="center">
 <tr>
